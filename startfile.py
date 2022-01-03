@@ -4,3 +4,5 @@ b = 6
 c = a + b
 
 #do a thing
+
+f = 7 + 9
